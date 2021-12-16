@@ -20,6 +20,12 @@ SOURCES += \
         ejercicio7.cpp \
         ejercicio9.cpp \
         problema1.cpp \
+        problema10.cpp \
+        problema11.cpp \
+        problema12.cpp \
+        problema15.cpp \
+        problema2.cpp \
+        problema3.cpp \
         problema6.cpp
 
 HEADERS +=
